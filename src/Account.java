@@ -5,6 +5,7 @@ class Account {
         // logic here
         return balance;
     }
+    //file added
 
     public static void main(String[] args) {
         Account accnt = new Account();            // object creation
